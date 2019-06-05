@@ -1,0 +1,26 @@
+.ImagesForPC {
+	margin-bottom: 10%;
+}
+
+.footer-sittings {
+	background-color: grey;
+}
+
+.p-tittle {
+	margin-bottom: 3%;
+}
+
+.conteiner-for-nav nav.navbar {
+	border-radius: 0px;
+	width: 100%;
+
+}
+
+.img-responsive {
+	width: 100%;
+}
+
+.container-fluid {
+	padding-right: 0;
+	padding-left: 0;
+}
